@@ -1,0 +1,46 @@
+{
+	"name": "pmdumuid/kbw-countdown",
+	"title": "jQuery Countdown",
+	"license": "MIT",
+	"description": "This plugin sets a div or span to show a countdown to a given time. * Standard or compact formats, or create your own layout. * Decide which periods to show. * Count up from a date/time instead. * Cater for timezone differences and synchronise with server time. * Over 45 localisations.",
+	"keywords": [
+		"countdown",
+		"i18n",
+		"timer",
+		"timezone",
+		"ui"
+	],
+	"author": {
+		"name": "Keith Wood",
+		"url": "http://keith-wood.name/"
+	},
+	"maintainers": [
+		{
+			"name": "Keith Wood",
+			"email": "kbwood@iinet.com.au",
+			"url": "http://keith-wood.name/"
+		}
+	],
+	"require": {
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt"
+		}
+	],
+	"homepage": "http://keith-wood.name/countdown.html",
+	"docs": "http://keith-wood.name/countdownRef.html",
+	"download": "http://keith-wood.name/countdown.html",
+	"extra": {
+		"component": {
+			"scripts": [ "*.js"  ],
+			"styles" : [ "*.css" ],
+			"files"  : [
+				"*.png",
+				"*.js",
+				"*.css"
+			]
+		}
+	}
+}
