@@ -1,4 +1,4 @@
-jQuery Countdown
+jQuery Countdown - Modified
 ================
 
 This plugin sets a div or span to show a countdown to a given time.
